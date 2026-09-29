@@ -1,0 +1,21 @@
+body{
+    background-color: yellow;
+    color: rgb(255 150 150 / 0.5);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    font-family: "Playwrite CA Guides",
+    cursive;
+    font-style: italic;
+}
+.playwrite-ca-guides-regular {
+  font-family: "Playwrite CA Guides",cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.heading{
+    margin-top: 10px ;
+    padding: 20px ;
+    border: 2px solids black ;
+}
